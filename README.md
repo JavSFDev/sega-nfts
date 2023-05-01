@@ -54,7 +54,3 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 ## Usage
 
 You can use any Solana wallet to mint the token. E.g: **Phantom**, **Slope**, **Solflare**, **Sollent**, **Solong**, **Ledger**, **Safepal**
-
-## Contact
-
-We can be contacted through our [Discord Server](https://discord.com) or via twitter [@ibrahimraimi\_](https://twitter.com/ibrahimraimi_)
