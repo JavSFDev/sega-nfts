@@ -35,7 +35,7 @@ Before interacting with our community, please read our [Code of Conduct](CODE_OF
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ibrahimraimi/sega-nfts
+   git clone https://github.com/JavSFDev/sega-nfts
    ```
 1. Install NPM packages
    ```sh
